@@ -7,8 +7,6 @@ import { wait } from "../utils";
 
 const postsAdapter = createEntityAdapter();
 
-postsAdapter.getInitialState();
-
 /**
  * INITIAL STATE
  */
